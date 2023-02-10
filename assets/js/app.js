@@ -16,7 +16,7 @@ setInterval(() => {
 
   const dayOfTheWeek = {
     0: 'Domingo',
-    1: 'Lunesss',
+    1: 'Lunes',
     2: 'Martes',
     3: 'Miércoles',
     4: 'Jueves',
